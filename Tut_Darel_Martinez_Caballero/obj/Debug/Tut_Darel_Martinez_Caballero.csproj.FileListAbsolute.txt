@@ -1,0 +1,11 @@
+C:\Users\psych\Desktop\ficherosC#\Tut_Darel_Martinez_Caballero\bin\Debug\Tut_Darel_Martinez_Caballero.exe.config
+C:\Users\psych\Desktop\ficherosC#\Tut_Darel_Martinez_Caballero\bin\Debug\Tut_Darel_Martinez_Caballero.exe
+C:\Users\psych\Desktop\ficherosC#\Tut_Darel_Martinez_Caballero\bin\Debug\Tut_Darel_Martinez_Caballero.pdb
+C:\Users\psych\Desktop\ficherosC#\Tut_Darel_Martinez_Caballero\obj\Debug\Tut_Darel_Martinez_Caballero.csproj.AssemblyReference.cache
+C:\Users\psych\Desktop\ficherosC#\Tut_Darel_Martinez_Caballero\obj\Debug\Tut_Darel_Martinez_Caballero.csproj.SuggestedBindingRedirects.cache
+C:\Users\psych\Desktop\ficherosC#\Tut_Darel_Martinez_Caballero\obj\Debug\Tut_Darel_Martinez_Caballero.Form1.resources
+C:\Users\psych\Desktop\ficherosC#\Tut_Darel_Martinez_Caballero\obj\Debug\Tut_Darel_Martinez_Caballero.Properties.Resources.resources
+C:\Users\psych\Desktop\ficherosC#\Tut_Darel_Martinez_Caballero\obj\Debug\Tut_Darel_Martinez_Caballero.csproj.GenerateResource.cache
+C:\Users\psych\Desktop\ficherosC#\Tut_Darel_Martinez_Caballero\obj\Debug\Tut_Darel_Martinez_Caballero.csproj.CoreCompileInputs.cache
+C:\Users\psych\Desktop\ficherosC#\Tut_Darel_Martinez_Caballero\obj\Debug\Tut_Darel_Martinez_Caballero.exe
+C:\Users\psych\Desktop\ficherosC#\Tut_Darel_Martinez_Caballero\obj\Debug\Tut_Darel_Martinez_Caballero.pdb
